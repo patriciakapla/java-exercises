@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01aulapratica/01aulapratica.iml" filepath="$PROJECT_DIR$/01aulapratica/01aulapratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula01pratica/aula01pratica.iml" filepath="$PROJECT_DIR$/aula01pratica/aula01pratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/aula01teorica.iml" filepath="$PROJECT_DIR$/aulas/aula01teorica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas/bin/ads01/aula_pratica01/aula_pratica01.iml" filepath="$PROJECT_DIR$/aulas/bin/ads01/aula_pratica01/aula_pratica01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-exercises.iml" />
+    </modules>
+  </component>
+</project>
